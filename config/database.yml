@@ -1,0 +1,9 @@
+
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: proj3
+  pool: 5
+  username: bob
+  password: somepass
+
